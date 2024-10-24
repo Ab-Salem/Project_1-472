@@ -16,7 +16,7 @@
 #define MAX_FILENAME_LENGTH 256
 #define MAX_FILES 10
 
-// structure to hold results from each process
+// structure to hold results from each process 
 typedef struct {
     int word_count;
     char filename[MAX_FILENAME_LENGTH];
